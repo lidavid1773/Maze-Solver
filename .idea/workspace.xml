@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5f3503d-0766-4326-a4c0-de885c6f3779" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aNgCbXZfs7aVjs8Tj9vXsBOPDc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maze.Server" />
+      <module name="cse116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cse116/frontend/mmo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ScalaTests in 'solver'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="cse116" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JavaScript Debug.mmo.html" />
+        <item itemvalue="ScalaTest.ScalaTests in 'solver'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5f3503d-0766-4326-a4c0-de885c6f3779" name="Default Changelist" comment="" />
+      <created>1586581338022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586581338022</updated>
+      <workItem from="1586581339339" duration="38000" />
+      <workItem from="1586581392146" duration="38000" />
+      <workItem from="1586581526750" duration="100000" />
+      <workItem from="1586581639432" duration="524000" />
+      <workItem from="1586582196224" duration="20000" />
+      <workItem from="1586582228930" duration="11000" />
+      <workItem from="1586582264472" duration="818000" />
+      <workItem from="1586583146542" duration="6344000" />
+      <workItem from="1586589524138" duration="1440000" />
+      <workItem from="1586590989793" duration="1048000" />
+      <workItem from="1586592063794" duration="186000" />
+      <workItem from="1586592265075" duration="109000" />
+      <workItem from="1586592376974" duration="1393000" />
+      <workItem from="1586593949175" duration="37000" />
+      <workItem from="1586593992584" duration="668000" />
+      <workItem from="1586597209300" duration="216000" />
+      <workItem from="1586600212069" duration="95000" />
+      <workItem from="1586604914586" duration="73000" />
+      <workItem from="1586605055449" duration="190000" />
+      <workItem from="1586639593037" duration="1834000" />
+      <workItem from="1586654444504" duration="1968000" />
+      <workItem from="1586989049012" duration="1344000" />
+      <workItem from="1586990708124" duration="1000" />
+      <workItem from="1587001394138" duration="28000" />
+      <workItem from="1587443991076" duration="163000" />
+      <workItem from="1587444352644" duration="29000" />
+      <workItem from="1588285855052" duration="9000" />
+      <workItem from="1588555797589" duration="2187000" />
+      <workItem from="1588622968074" duration="11000" />
+      <workItem from="1588625727890" duration="151000" />
+      <workItem from="1588630721598" duration="10000" />
+      <workItem from="1588630771237" duration="15000" />
+      <workItem from="1588808358423" duration="232000" />
+      <workItem from="1588819167640" duration="67000" />
+      <workItem from="1588819622410" duration="154000" />
+      <workItem from="1588821282079" duration="77000" />
+      <workItem from="1588821363214" duration="58000" />
+      <workItem from="1588821424207" duration="20000" />
+      <workItem from="1588821446851" duration="40000" />
+      <workItem from="1588821609604" duration="5000" />
+      <workItem from="1589661335662" duration="7000" />
+      <workItem from="1589661672706" duration="8000" />
+      <workItem from="1602129990252" duration="119000" />
+      <workItem from="1602130276677" duration="37000" />
+      <workItem from="1602130908065" duration="129000" />
+      <workItem from="1602131153813" duration="13000" />
+      <workItem from="1602131208487" duration="8000" />
+      <workItem from="1602131261300" duration="24000" />
+      <workItem from="1602131371031" duration="71000" />
+      <workItem from="1602131499143" duration="50000" />
+      <workItem from="1625693066551" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="63" key="SettingsEditor" timestamp="1602131546726">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602131546726" />
+  </component>
+</project>
